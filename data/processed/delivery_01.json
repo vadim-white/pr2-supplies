@@ -1,0 +1,10 @@
+{
+  "deliveryId": 3,
+  "darkstoreAddress": "переулок Цветочный, дом 15",
+  "datetimeDelivery": "2024-06-03 10:10:00",
+  "status": "COMPLETED",
+  "goods": [
+    {"name": "Лазанья \"Болоньезе\"", "price": 499.99, "count": 28},
+    {"name": "Пицца \"Маргарита\"", "price": 599.99, "count": 44}
+  ]
+}

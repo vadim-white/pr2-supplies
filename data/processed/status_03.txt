@@ -1,0 +1,4 @@
+deliveryId: 7
+darkstoreAddress: проспект Мира, дом 25
+status: CANCELLED
+note: доставка отменена дарксторм, товар возвращён на склад поставщика
